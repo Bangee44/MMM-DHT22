@@ -3,8 +3,6 @@ Additional Module for MagicMirror²  https://github.com/MichMich/MagicMirror
 
 ## Dependencies
 - An installation of [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror)
-- [request](https://www.npmjs.com/package/request)
-- [underscore](https://www.npmjs.com/package/underscore)
 
 ## Installation
 
