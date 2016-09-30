@@ -1,5 +1,5 @@
 
-Module.register("temperature",{
+Module.register("MMM-DHT22",{
     // Default module config.
     defaults: {
     	sensorPIN: 2,
