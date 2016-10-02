@@ -23,7 +23,7 @@ module.exports = NodeHelper.create({
 			   this.config = payload
 			   
 			   // execute external DHT Script
-			   exec("sudo ./modules/temperature/dht_var " + this.config.sensorPIN, (error, stdout) => {
+			   exec("sudo ./modules/MMM-DHT22/dht_var " + this.config.sensorPIN, (error, stdout) => {
 			   if (error) {
 				    console.error(`exec error: ${error}`);
 				    return;
