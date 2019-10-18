@@ -3,7 +3,7 @@ Additional Module for MagicMirror²  https://github.com/MichMich/MagicMirror
 
 ## Dependencies
 - An installation of [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror)
-- [WiringPi] (http://wiringpi.com/download-and-install/)
+- [WiringPi](http://wiringpi.com/download-and-install/)
 
 ## Installation
 
