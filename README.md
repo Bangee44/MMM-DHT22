@@ -63,20 +63,19 @@ The following properties can be configured:
 		<tr>
 			<td><code>sensorPIN</code></td>
 			<td>GPIO PIN
-        <br>
-        <br>
-        <b>Possible values:</b> wPi 
-        <br>
+        			<br>
+        			<br>
+        			<b>Possible values:</b> wPi 
+        			<br>
 				<b>Default value:</b> <code>2</code>
 			</td>
 		</tr>
-
-    <tr>
+    		<tr>
 			<td><code>updateInterval</code></td>
 			<td>Updateinterval for DHT22 sensor in minutes
-        <br>
-        <b>Possible values:</b> int 
-        <br>
+        			<br>
+        			<b>Possible values:</b> int 
+        			<br>
 				<b>Default value:</b> <code>0.5</code>
 			</td>
 		</tr>
