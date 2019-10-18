@@ -85,6 +85,7 @@ The following properties can be configured:
 <br>
 <p>
 If you want to find the right pin:
+
 ```
 pi@raspberrypi:~ $ gpio readall
  +-----+-----+---------+------+---+---Pi 2---+---+------+---------+-----+-----+
